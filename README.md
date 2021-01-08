@@ -7,9 +7,9 @@ I'm from Dhaka,Bangladesh and I do web Design & Development. I really enjoy to l
 - 🔭 I’m currently working as Freelance web Developer.
 - 🌱 I’m currently learning Golang.
 - 👯 I’m looking to collaborate on Youtube.
-- 🤔 I’m looking for help with VelocityX documentation
+- 🤔 I’m looking for help with Dash documentation
 - 💬 Ask me about PHP and JavaScript.
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to Photography and play guitar.
 
@@ -25,6 +25,7 @@ I'm from Dhaka,Bangladesh and I do web Design & Development. I really enjoy to l
 
 ---
 <br />
+---
 ### Languages and Tools:
 
   <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
