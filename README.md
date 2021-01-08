@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working as Freelance web Developer.
-- 🌱 I’m currently learning VueJS.
+- 🌱 I’m currently learning Golang.
 - 👯 I’m looking to collaborate on Youtube.
 - 🤔 I’m looking for help with VelocityX documentation
 - 💬 Ask me about PHP and JavaScript.
