@@ -9,16 +9,24 @@ I'm from Dhaka,Bangladesh🇧🇩 and I do Web Design & Development. I really en
 ## I'm a Developer, Photographer and Freelancer!!
 
 - 🔭 I’m currently working as Freelance web Developer.
-- 🌱 I’m currently learning Vuejs.
+- 🌱 I’m currently learning JavaScript.
 - 👯 I’m looking to collaborate on Youtube.
 - 🤔 I’m looking for help with Dash documentation
-- 💬 Ask me about PHP and JavaScript. :question:
+- 💬 Ask me about PHP and WordPress. :question:
 - 🥅 2021 Goals: Contribute more to Open Source projects :file_folder: & reads many books as more as possible :books:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to Photography and play guitar.
 
  ---
 ### Connect with me :blush:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/moakmmeltanviir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/mokammeltanvir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](mokammeltanvir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mokammeltanvir/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mokammelhossaiiintanvir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mokammelhossaintanvir/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mokammeltanvir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/mokammeltanvir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/mokammeltanvir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/mokammeltanvir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/mokammeltanvir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/mokammeltanvir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mokammeltanvir.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg' alt='about-dot-me' height='40'>](mokammeltanvir)  
+
+
+
+
+
+
+
 [<img align="left" alt="mokammeltanvir.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="mokammeltanvir | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="mokammeltanvir | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
