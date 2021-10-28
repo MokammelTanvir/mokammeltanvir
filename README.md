@@ -9,7 +9,7 @@ I'm from Dhaka,Bangladesh🇧🇩 and I do Web Design & Development. I really en
 ## I'm a Developer, Photographer and Freelancer!!
 
 - 🔭 I’m currently working as Freelance web Developer.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning Golang.
 - 👯 I’m looking to collaborate on Youtube.
 - 🤔 I’m looking for help with Dash documentation
 - 💬 Ask me about PHP and WordPress. :question:
