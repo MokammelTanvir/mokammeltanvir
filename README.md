@@ -30,6 +30,8 @@ I'm from Dhaka,Bangladesh🇧🇩 and I do Web Design & Development. I really en
 
 <img align="left" alt="Visual Studio Code" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
+<img align="left" alt="Visual Studio Code" width="40" height="40" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" />
+
 <img align="left" alt="HTML5" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 <img align="left" alt="CSS3" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -52,38 +54,34 @@ I'm from Dhaka,Bangladesh🇧🇩 and I do Web Design & Development. I really en
 
 <img align="left" alt="Gatsby" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
 
-<img align="left" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
+<img align="left" alt="Node.js" width="40" height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" />
+<img align="left" alt="npm" width="40" height="40" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" />
 
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/>
-
-<img align="left" alt="Node.js" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<img align="left" alt="Deno" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
-
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-<img align="left" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/> 
+<img align="left" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="40" height="40"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="laravel" width="40" height="40"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="40" height="40"/> 
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="go" width="40" height="40"/>
 
 <img align="left" alt="SQL" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
-<img align="left" alt="MySQL" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 
-<img align="left" alt="MongoDB" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="MongoDB" width="40" height="40" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" />
 
-<img align="left" alt="Git" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Git" width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" />
 
 <img align="left" alt="Terminal" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<img align="left" alt="GitHub" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="40" height="40" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" />
  
 <img align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg" alt="webpack" width="40" height="40"/>
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-ar21.svg" alt="illustrator" width="40" height="40"/>
 
 <img align="left" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
 <img align="left" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
@@ -93,8 +91,6 @@ I'm from Dhaka,Bangladesh🇧🇩 and I do Web Design & Development. I really en
 <br  />
 
 <br  />
-
----
 
 <br />
 <br />
