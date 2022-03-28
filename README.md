@@ -64,7 +64,7 @@ I'm from Dhaka,Bangladesh🇧🇩 and I do Web Design & Development. I really en
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="go" width="40" height="40"/>
 
-<img align="left" alt="SQL" width="40" height="40" src="https://image.pngaaa.com/753/6600753-small.png" />
+<img align="left" alt="SQL" width="40" height="40" src="https://www.svgrepo.com/show/255832/sql.svg" />
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="40"/>
 
