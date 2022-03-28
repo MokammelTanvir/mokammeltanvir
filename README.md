@@ -61,6 +61,7 @@ I'm from Dhaka,Bangladesh🇧🇩 and I do Web Design & Development. I really en
 <img align="left" alt="Deno" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/> 
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
 
@@ -87,7 +88,6 @@ I'm from Dhaka,Bangladesh🇧🇩 and I do Web Design & Development. I really en
 <img align="left" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
 <img align="left" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
 <img align="left" src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> 
-<img align="left" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="sketch" width="40" height="40"/> 
 
 
 <br  />
@@ -97,8 +97,10 @@ I'm from Dhaka,Bangladesh🇧🇩 and I do Web Design & Development. I really en
 ---
 
 <br />
+<br />
+<br />
 
-  
+---  
 
 <details>
 
