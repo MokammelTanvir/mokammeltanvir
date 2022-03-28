@@ -87,6 +87,7 @@ I'm from Dhaka,Bangladesh🇧🇩 and I do Web Design & Development. I really en
 <img align="left" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
 <img align="left" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
 <img align="left" src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> 
+<img align="left" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="sketch" width="40" height="40"/> 
 
 
 <br  />
@@ -94,6 +95,8 @@ I'm from Dhaka,Bangladesh🇧🇩 and I do Web Design & Development. I really en
 <br  />
 
 ---
+
+<br />
 
   
 
