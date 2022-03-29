@@ -30,7 +30,7 @@ I'm from Dhaka,Bangladesh🇧🇩 and I do Web Design & Development. I really en
 
 <img align="left" alt="Visual Studio Code" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<img align="left" alt="Jait Brains IDE" width="40" height="40" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" />
+<img align="left" alt="PhpStrom IDE" width="40" height="40" src="https://laracasts.com/images/topics/icons/phpstorm-logo.svg" />
 
 <img align="left" alt="HTML5" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
@@ -64,10 +64,10 @@ I'm from Dhaka,Bangladesh🇧🇩 and I do Web Design & Development. I really en
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="go" width="40" height="40"/>
 
-<img align="left" alt="SQL" width="40" height="40" src="https://www.svgrepo.com/show/255832/sql.svg" />
+<img align="left" alt="SQL" width="40" height="40" src="https://laracasts.com/images/topics/icons/sql-logo.svg" />
 
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="40"/>
-
+<img align="left" src="https://laracasts.com/images/topics/icons/mysql-logo.svg" alt="mysql" height="40"/>
+<img align="left" src="https://laracasts.com/images/topics/icons/graphql-logo.svg" alt="GraphQL" height="40"/>
 <img align="left" alt="MongoDB" width="60" height="40" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" />
 
 <img align="left" alt="Git" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" />
@@ -86,7 +86,7 @@ I'm from Dhaka,Bangladesh🇧🇩 and I do Web Design & Development. I really en
 <img align="left" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
 <img align="left" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
 <img align="left" src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> 
-<img align="left" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" height="40"/>
+<img align="left" src="https://laracasts.com/images/topics/icons/docker-logo.svg" alt="docker" width="40" height="40"/>
 
 
 <br  />
