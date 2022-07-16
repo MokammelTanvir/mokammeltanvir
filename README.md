@@ -17,11 +17,8 @@ I'm from Dhaka,Bangladesh🇧🇩 and I do Web Design & Development. I really en
 - ⚡ Fun fact: I love to Photography and play guitar.
 
  ---
- <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mokammeltanvir" alt="mokammeltanvir" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mokammeltanvir" target="blank"><img src="https://img.shields.io/twitter/follow/mokammeltanvir?logo=twitter&style=for-the-badge" alt="mokammeltanvir" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
