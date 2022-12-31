@@ -1,4 +1,4 @@
-### Hello..! :smiley:  I'm Mokammel Hossain Tanvir :man: - aka [mokammeltanvir][website] 👋
+### Hello..! :smiley:  I'm Mokammel Hossain Tanvir :man: - But you will find me everywhere with the handle name [mokammeltanvir][website] 👋
 
 ![](https://mokammeltanvir.com/wp-content/uploads/2021/09/banner-scaled.jpg)
 
