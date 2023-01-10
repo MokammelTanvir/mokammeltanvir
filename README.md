@@ -12,10 +12,10 @@ I'm from Dhaka,Bangladesh 🇧🇩 and I am Full-Stack Developer 👨🏻‍💻
 - 🔭 I’m currently working as Freelance web Developer.
 - 🌱 I’m currently learning Golang.
 - 👯 I’m looking to collaborate on Youtube.
-- 🤔 I’m looking for help with Dash documentation
-- 💬 Ask me about PHP and WordPress. :question:
-- 🥅 2022 Goals: Contribute more to Open Source projects :file_folder: & reads many books as more as possible :books:
-- ⚡ Fun fact: I love to Photography and play guitar.
+- 🤔 I'm looking for help with Open Source Contribution
+- 💬 Ask me about PHP-Laravel and WordPress. :question:
+- 🥅 2023 Goals: Contribute more to Open Source projects :file_folder: & reads many books as more as possible :books:
+- ⚡ Fun fact: I love Photography 📸 and reading fiction books 📕.
 
  ---
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=mokammeltanvir&label=Profile%20views&color=0e75b6&style=flat" alt="mokammeltanvir" /> </p>
