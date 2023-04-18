@@ -4,7 +4,7 @@
 I'm from Dhaka,Bangladesh 🇧🇩 and I am Full-Stack Developer 👨🏻‍💻- (Actually Backend Developer. But also can develop an average Frontend Design with help of Google 🙄 ). I really enjoy to learning Programming Languages and Frameworks like JavaScript, PHP, Laravel, VueJS, React and Go etc, as well as working on WordPress. You can check out my Portfolio website
 
 [![Website](https://img.shields.io/website?label=mokammeltanvir.com&style=for-the-badge&url=https%3A%2F%2Fmokammeltanvir.com)](https://mokammeltanvir.com)
- [![](https://visitcount.itsvg.in/api?id=mokammeltanvir&icon=0&color=8)](https://visitcount.itsvg.in)
+ [![](https://visitcount.itsvg.in/api?id=mokammeltanvir&icon=0&color=8)](https://github.com/mokammeltanvir)
 
 ## I'm a Full Stack Developer,👨‍💻 Programmer and Freelancer!!
 
