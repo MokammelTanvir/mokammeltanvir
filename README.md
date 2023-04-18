@@ -11,7 +11,7 @@ I'm from Dhaka,Bangladesh 🇧🇩 and I am Full-Stack Developer 👨🏻‍💻
 - 🔭 I’m currently working as Freelance Web Developer and open to work and employment opportunities.
 - 🌱 I’m currently learning many things. Highly believe that everyday is a learning opportunity.
 - 👯 I’m currently open for work and employment opportunities.(remote or desk)
-- 📫 I am just one mail away - [ tanvir@mokammeltanvir ]
+- 📫 I am just one mail away - [ tanvir@mokammeltanvir.com ]
 - 🤔 I'm looking for help with Open Source Contribution
 - 💬 Ask me about PHP-Laravel, JavaScript-Vue and WordPress. :question:
 - 🥅 2023 Goals: Contribute more to Open Source projects :file_folder: & reads many books as more as possible :books:
