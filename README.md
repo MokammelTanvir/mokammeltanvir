@@ -1,16 +1,17 @@
 ### Hello..! 👋 I'm Mokammel Hossain Tanvir :smiley:
 [![](https://raw.githubusercontent.com/mokammeltanvir/portfolio-website/main/mokammeltanvir.gif)](https://mokammeltanvir.com)
 
-I'm from Dhaka,Bangladesh 🇧🇩 and I am Full-Stack Developer 👨🏻‍💻- (Actually Backend Developer. But also can develop an average Frontend Design with help of Google 🙄 ). I really enjoy to learning Programming Languages and Frameworks like JavaScript, PHP, Laravel, VueJS, React and Go etc, as well as working on WordPress. You can check out my Portfolio website
+I'm from Dhaka,Bangladesh 🇧🇩 and I am Full-Stack Developer 👨🏻‍💻- (Actually Backend Developer. But also can develop an average Frontend Design with help of Google 🙄 ). I really enjoy to learning Programming Languages and Frameworks like JavaScript, PHP, Laravel, VueJS, React and Go etc, as well as working on WordPress. I am a quick learner & I believe in hard work and efficiency. I am passionate about effectiveness and speed of development also fun of clean code 👨🏻‍💻 You can check out my Portfolio website.
 
 [![Website](https://img.shields.io/website?label=mokammeltanvir.com&style=for-the-badge&url=https%3A%2F%2Fmokammeltanvir.com)](https://mokammeltanvir.com)
  [![](https://visitcount.itsvg.in/api?id=mokammeltanvir&icon=0&color=8)](https://github.com/mokammeltanvir)
 
 ## I'm a Full Stack Developer,👨‍💻 Programmer and Freelancer!!
 
-- 🔭 I’m currently working as Freelance Web Developer.
-- 🌱 I’m currently learning Golang.
-- 👯 I’m looking to collaborate on Youtube.
+- 🔭 I’m currently working as Freelance Web Developer and open to work and employment opportunities.
+- 🌱 I’m currently learning many things. Highly believe that everyday is a learning opportunity.
+- 👯 I’m currently open for work and employment opportunities.(remote or desk)
+- 📫 I am just one mail away - [ tanvir@mokammeltanvir ]
 - 🤔 I'm looking for help with Open Source Contribution
 - 💬 Ask me about PHP-Laravel, JavaScript-Vue and WordPress. :question:
 - 🥅 2023 Goals: Contribute more to Open Source projects :file_folder: & reads many books as more as possible :books:
