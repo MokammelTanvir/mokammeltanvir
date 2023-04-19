@@ -12,7 +12,7 @@ I'm from Dhaka,Bangladesh 🇧🇩 and I am Full-Stack Developer 👨🏻‍💻
 - 🌱 I’m currently learning many things. Believe That being a developer means constantly learning and adapting to new technologies.
 - 👯 I’m currently open for work and employment opportunities.(remote or desk)
 
-- 📫 You can contact me at --> [![](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanvir@mokammeltanvir.com)
+- 📫 You can contact me at --> [![](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tanvir@mokammeltanvir.com)
 
 - 🤔 I'm looking for help with Open Source Contribution
 - 💬 Ask me about PHP-Laravel, JavaScript-Vue and WordPress. :question:
