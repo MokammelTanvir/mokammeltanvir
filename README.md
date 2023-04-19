@@ -9,7 +9,7 @@ I'm from Dhaka,Bangladesh 🇧🇩 and I am Full-Stack Developer 👨🏻‍💻
 ## I'm a Full Stack Developer,👨‍💻 Programmer and Freelancer!!
 
 - 🔭 I’m currently working as Freelance Web Developer and open to work and employment opportunities.
-- 🌱 I’m currently learning many things. Highly believe that everyday is a learning opportunity.
+- 🌱 I’m currently learning many things. Believe That being a developer means constantly learning and adapting to new technologies.
 - 👯 I’m currently open for work and employment opportunities.(remote or desk)
 - 📫 I am just one mail away - [ tanvir@mokammeltanvir.com ]
 - 🤔 I'm looking for help with Open Source Contribution
