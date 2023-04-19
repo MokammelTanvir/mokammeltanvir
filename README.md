@@ -11,11 +11,13 @@ I'm from Dhaka,Bangladesh 🇧🇩 and I am Full-Stack Developer 👨🏻‍💻
 - 🔭 I’m currently working as Freelance Web Developer and open to work and employment opportunities.
 - 🌱 I’m currently learning many things. Believe That being a developer means constantly learning and adapting to new technologies.
 - 👯 I’m currently open for work and employment opportunities.(remote or desk)
-- 📫 I am just one mail away - [ tanvir@mokammeltanvir.com ]
+
+- 📫 You can contact me at --> [![](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanvir@mokammeltanvir.com)
+
 - 🤔 I'm looking for help with Open Source Contribution
 - 💬 Ask me about PHP-Laravel, JavaScript-Vue and WordPress. :question:
 - 🥅 2023 Goals: Contribute more to Open Source projects :file_folder: & reads many books as more as possible :books:
-- ⚡ Fun fact: I love Photography 📸 and reading fiction books 📕.
+- ⚡ Fun fact: Trying to Learn Guitar with My Bad song. 🎸
 
  ---
  # 💻 FrontEnd Skills:
@@ -47,13 +49,13 @@ I'm from Dhaka,Bangladesh 🇧🇩 and I am Full-Stack Developer 👨🏻‍💻
 
 ## 🌐 Socials: Connect with Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mokammeltanvir) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mokammeltanvir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mokammeltanvir) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mokammeltanvir) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/mokammeltanvir) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/mokammeltanvir) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mokammeltanvir) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mokammeltanvir) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mokammeltanvir) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mokammeltanvir) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/mokammeltanvir) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/mokammeltanvir) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mokammeltanvir) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mokammeltanvir)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/mokammeltanvir) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mokammeltanvir) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mokammeltanvir) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mokammeltanvir) [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/mokammeltanvir) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/mokammeltanvir) [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/mokammeltanvir) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mokammeltanvir) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mokammeltanvir) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/mokammeltanvir) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/mokammeltanvir) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/mokammeltanvir) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@mokammeltanvir) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@mokammeltanvir)
 
 ### ✍️ Random Dev Quotes
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+
 ## 💰 You can help me by Donating
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mokammeltanvir)
