@@ -6,7 +6,7 @@ I'm from Dhaka,Bangladesh 🇧🇩 and I am Full-Stack Developer 👨🏻‍💻
 [![Website](https://img.shields.io/website?label=mokammeltanvir.com&style=for-the-badge&url=https%3A%2F%2Fmokammeltanvir.com)](https://mokammeltanvir.com)
  [![](https://visitcount.itsvg.in/api?id=mokammeltanvir&icon=0&color=8)](https://github.com/mokammeltanvir)
 
-## I'm a Full Stack Developer,👨‍💻 Programmer and Freelancer!!
+## I'm a Full Stack Developer,👨‍💻 Programmer and Freelancer!
 
 - 🔭 I’m currently working as Freelance Web Developer and open to work and employment opportunities.
 - 🌱 I’m currently learning many things. Believe That being a developer means constantly learning and adapting to new technologies.
