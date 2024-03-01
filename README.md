@@ -6,6 +6,8 @@ I'm from Dhaka,Bangladesh 🇧🇩 and I am Full-Stack Developer 👨🏻‍💻
 [![Website](https://img.shields.io/website?label=mokammeltanvir.com&style=for-the-badge&url=https%3A%2F%2Fmokammeltanvir.com)](https://mokammeltanvir.com)
 ![VisitorCount](https://profile-counter.glitch.me/mokammeltanvir/count.svg)
 
+[![wakatime](https://wakatime.com/badge/user/018dfb29-ccc2-4c05-8e43-28d52804b0d0.svg)](https://wakatime.com/@018dfb29-ccc2-4c05-8e43-28d52804b0d0)
+
 
 ## I'm a Full Stack Developer,👨‍💻 Programmer and Freelancer!
 
