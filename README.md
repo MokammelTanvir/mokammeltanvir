@@ -17,7 +17,7 @@ I'm from Dhaka,Bangladesh 🇧🇩 and I am Full-Stack Developer 👨🏻‍💻
 
 - 🤔 I'm looking for help with Open Source Contribution
 - 💬 Ask me about PHP-Laravel, JavaScript-Vue and WordPress. :question:
-- 🥅 2023 Goals: Contribute more to Open Source projects :file_folder: & reads many books as more as possible :books:
+- 🥅 2024 Goals: Contribute more to Open Source projects :file_folder: & reads many books as more as possible :books:
 - ⚡ Fun fact: Trying to Learn Guitar with My Bad song. 🎸
 
  ---
