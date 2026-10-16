@@ -1,26 +1,36 @@
 # Hello... ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Mokammel Hossain Tanvir :smiley:
-[![](https://raw.githubusercontent.com/mokammeltanvir/portfolio-website/main/mokammeltanvir.gif)](https://mokammeltanvir.com)
 
-I'm from Dhaka,Bangladesh 🇧🇩 and I am Full-Stack Developer 👨🏻‍💻- (Actually Backend Developer. But also can develop an average Frontend Design with help of Google 🙄 ). I really enjoy to learning Programming Languages and Frameworks like JavaScript, PHP, Laravel, VueJS, React and Go etc, as well as working on WordPress. I am a quick learner & I believe in hard work and efficiency. I am passionate about effectiveness and speed of development also fun of clean code 👨🏻‍💻 You can check out my Portfolio website.
+[![](https://mokammeltanvir.com/images/banner/desk-table.png)](https://mokammeltanvir.com)
 
-[![Website](https://img.shields.io/website?label=mokammeltanvir.com&style=for-the-badge&url=https%3A%2F%2Fmokammeltanvir.com)](https://mokammeltanvir.com)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&pause=1000&color=00DC82&width=600&lines=Full-Stack+Developer;Laravel+Expert;Vue+%2F+Nuxt+Engineer;AI+Integration+Builder)
 
+I'm from Dhaka, Bangladesh 🇧🇩 — a Full-Stack Developer 👨🏻‍💻 with 5+ years of experience, mostly building with Laravel and Vue/Nuxt. I'm a backend developer at heart, but I like owning the whole product: solid APIs, well-designed databases, and a frontend that does them justice (with a little help from Google when the CSS gets moody 🙄). Lately I've also been weaving AI into real-world apps. I pick up new tools fast — recently AI integration — and I care about clean code, fast delivery, and shipping things that actually work. Have a look around my portfolio to see what I've been building.
 
-## I'm a Full Stack Developer,👨‍💻 Programmer and Freelancer!
+[![Website](https://img.shields.io/website?label=mokammeltanvir.com&style=for-the-badge&url=https%3A%2F%2Fmokammeltanvir.com)](https://mokammeltanvir.com) [![All Repositories](https://img.shields.io/badge/All%20Repositories-mokammeltanvir.github.io-181717?style=for-the-badge&logo=github&logoColor=white)](https://mokammeltanvir.github.io/) ![Profile Views](https://komarev.com/ghpvc/?username=mokammeltanvir&style=for-the-badge&color=00DC82)
 
-- 🔭 I’m currently working as Freelance Web Developer and open to work and employment opportunities.
-- 🌱 I’m currently learning many things. Believe That being a developer means constantly learning and adapting to new technologies.
-- 👯 I’m currently open for work and employment opportunities.(remote or desk)
+## Full-Stack Developer 👨‍💻 | Laravel + Vue/Nuxt | Remote-Ready
+
+- 🔭 I’m currently open to remote jobs and project-based work — full-time, contract or freelance. If you have something interesting, let’s talk.
+- 🌱 I’m learning AI integration, Nuxt, and better system design. Being a developer means constantly learning and adapting — that’s the fun part.
+- 👯 Based in Dhaka, comfortable working remotely or on-site with teams across time zones.
 
 - 📫 You can contact me at --> [![](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tanvir@mokammeltanvir.com)
 
-- 🤔 I'm looking for help with Open Source Contribution
-- 💬 Ask me about PHP-Laravel, JavaScript-Vue and WordPress. :question:
-- 🥅 2024 Goals: Contribute more to Open Source projects :file_folder: & reads many books as more as possible :books:
-- ⚡ Fun fact: Trying to Learn Guitar with My Bad song. 🎸
+- 🤔 I'd love to contribute to open source projects — and I'm always up for collaborating.
+- 💬 Ask me about Laravel, Vue/Nuxt, API design, AI integration and WordPress. :question:
+- 🥅 2026 Goals: Contribute more to open source :file_folder: & read as many books as I can :books:
+- ⚡ Fun fact: I'm teaching myself guitar — my singing is still a work in progress. 🎸
 
- ---
- # 💻 FrontEnd Skills:
+  ***
+
+# 📝 Latest Blog Posts:
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+[Read more on mokammeltanvir.com/blog →](https://mokammeltanvir.com/blog)
+
+# 💻 FrontEnd Skills:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Buefy](https://img.shields.io/badge/Buefy-7957D5?style=for-the-badge&logo=buefy&logoColor=48289E) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
@@ -40,12 +50,21 @@ I'm from Dhaka,Bangladesh 🇧🇩 and I am Full-Stack Developer 👨🏻‍💻
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=mokammeltanvir&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mokammeltanvir&theme=vue-dark&hide_border=true)<br/>
+![](https://streak-stats.demolab.com/?user=mokammeltanvir&theme=vue-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mokammeltanvir&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+## 📌 Featured Repositories
+
+[![Portfolio-Web-Laravel](https://github-readme-stats.vercel.app/api/pin/?username=MokammelTanvir&repo=Portfolio-Web-Laravel&theme=vue-dark&hide_border=true)](https://github.com/MokammelTanvir/Portfolio-Web-Laravel) [![Twitter-Clone](https://github-readme-stats.vercel.app/api/pin/?username=MokammelTanvir&repo=Twitter-Clone&theme=vue-dark&hide_border=true)](https://github.com/MokammelTanvir/Twitter-Clone)
+[![Codexwise-Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=MokammelTanvir&repo=Codexwise-Ecommerce&theme=vue-dark&hide_border=true)](https://github.com/MokammelTanvir/Codexwise-Ecommerce) [![VibeDiscipline](https://github-readme-stats.vercel.app/api/pin/?username=MokammelTanvir&repo=VibeDiscipline&theme=vue-dark&hide_border=true)](https://github.com/MokammelTanvir/VibeDiscipline)
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/MokammelTanvir/mokammeltanvir/output/github-snake-dark.svg)
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=mokammeltanvir&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?username=mokammeltanvir&theme=dark&margin-w=4)
 
 ## 🌐 Socials: Connect with Me
 
