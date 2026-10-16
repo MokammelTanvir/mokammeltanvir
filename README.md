@@ -53,11 +53,6 @@ I'm from Dhaka, Bangladesh 🇧🇩 — a Full-Stack Developer 👨🏻‍💻 w
 ![](https://streak-stats.demolab.com/?user=mokammeltanvir&theme=vue-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mokammeltanvir&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 📌 Featured Repositories
-
-[![Portfolio-Web-Laravel](https://github-readme-stats.vercel.app/api/pin/?username=MokammelTanvir&repo=Portfolio-Web-Laravel&theme=vue-dark&hide_border=true)](https://github.com/MokammelTanvir/Portfolio-Web-Laravel) [![Twitter-Clone](https://github-readme-stats.vercel.app/api/pin/?username=MokammelTanvir&repo=Twitter-Clone&theme=vue-dark&hide_border=true)](https://github.com/MokammelTanvir/Twitter-Clone)
-[![Codexwise-Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=MokammelTanvir&repo=Codexwise-Ecommerce&theme=vue-dark&hide_border=true)](https://github.com/MokammelTanvir/Codexwise-Ecommerce) [![VibeDiscipline](https://github-readme-stats.vercel.app/api/pin/?username=MokammelTanvir&repo=VibeDiscipline&theme=vue-dark&hide_border=true)](https://github.com/MokammelTanvir/VibeDiscipline)
-
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/MokammelTanvir/mokammeltanvir/output/github-snake-dark.svg)
