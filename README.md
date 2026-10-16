@@ -26,6 +26,11 @@ I'm from Dhaka, Bangladesh 🇧🇩 — a Full-Stack Developer 👨🏻‍💻 w
 # 📝 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Prompt Engineering for Developers: What Actually Works in Production](https://mokammeltanvir.com/blog/prompt-engineering-for-developers)
+- [MySQL Query Optimization in Laravel: What I Fixed in Production](https://mokammeltanvir.com/blog/mysql-query-optimization-laravel)
+- [Building AI Features in Laravel with the Claude API](https://mokammeltanvir.com/blog/building-ai-features-in-laravel)
+- [Nuxt 4 + Laravel API: The Full-Stack Setup I Actually Ship](https://mokammeltanvir.com/blog/nuxt-4-full-stack-with-laravel-api)
+- [Laravel Queues in Production: What Nobody Tells You](https://mokammeltanvir.com/blog/laravel-queue-jobs-real-world)
 <!-- BLOG-POST-LIST:END -->
 
 [Read more on mokammeltanvir.com/blog →](https://mokammeltanvir.com/blog)
